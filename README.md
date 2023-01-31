@@ -26,14 +26,11 @@ Hey there!
 
 
   I am a Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
- 
 
-- :TMLC: I’m currently doing my internship at TheMachineLearningCompany
-
-- :Medium: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+- :zap: In my free time, I read tech articles.
+- Here is my portfolio <a href="http://127.0.0.1:5000/#">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/6588/6588143.png"/>
+    
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -63,7 +60,6 @@ Hey there!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyeedaKudhsia8&layout=compact&theme=vision-friendly-dark)](https://github.com/SyeedaKudhsia8/github-readme-stats)
 
-<a href="http://127.0.0.1:5000/#">
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/6588/6588143.png"/>
+
 
 
