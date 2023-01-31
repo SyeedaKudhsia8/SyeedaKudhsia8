@@ -19,9 +19,6 @@ Hey there!
   <a href="https://www.linkedin.com/in/syeeda">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@syeedaf/">
-    <img height="30" src="https://img.shields.io/badge/Medium-10000E"/>
-</a>
 </div>
 
 
