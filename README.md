@@ -22,7 +22,7 @@ Hey there!
 </div>
 
 
-  I am a Data Scientist<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently living in Manchester.
+  I am a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently living in Manchester.
 
 - :zap: In my free time, I read tech articles.
 - Here is my portfolio <a href="http://127.0.0.1:5000/#">
