@@ -24,8 +24,8 @@ Hey there!
 
   I am a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently living in Manchester.
 
-- :zap: In my free time, I read tech articles.
-- Here is my portfolio <a href="(https://www.datascienceportfol.io/Datacoding25)">
+- :zap: In my free time, I read tech articles and also like to code<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
   
     
 ### :hammer_and_wrench: Languages and Tools :
