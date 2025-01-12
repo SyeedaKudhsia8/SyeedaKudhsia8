@@ -26,7 +26,7 @@ Hey there!
 
 - :zap: In my free time, I read tech articles.
 - Here is my portfolio <a href="(https://www.datascienceportfol.io/Datacoding25)">
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/6588/6588143.png"/>
+  
     
 ### :hammer_and_wrench: Languages and Tools :
 <div>
