@@ -11,15 +11,20 @@ Hey there!
 
 
 
-
-
-
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/syeeda">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+  <a href="https://public.tableau.com/app/profile/syeeda.fatima1036/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-portfolio-blueviolet?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
+  
+  <a href="https://www.datascienceportfol.io/Datacoding25/projects/6">
+    <img src="https://img.shields.io/badge/DataScience-Portfolio-orange?style=for-the-badge&logo=data&logoColor=white" alt="Data Science Portfolio Badge"/>
+  </a>
 </div>
+
 
 
   I am a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently living in Manchester.
