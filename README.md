@@ -26,7 +26,38 @@ Hey there!
 
 - :zap: In my free time, I read tech articles and also like to code<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-  
+  # 📊 Tableau Dashboards Portfolio
+
+Explore interactive dashboards created using Tableau, analyzing diverse datasets across entertainment, retail, and user behavior insights.
+
+---
+
+### 🎬 Netflix Uncovered  
+**Explore genres, content duration, release trends, and global content distribution on Netflix.**  
+📎 [View Dashboard](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/NetflixUncovered/Dashboard1)
+
+---
+
+### 🛍️ Retail Analysis  
+**Deep dive into sales trends, category performance, and customer segments in the retail domain.**  
+📎 [View Dashboard](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/RetailAnalysis_17440438813160/Dashboard1)
+
+---
+
+### 📺 Behind the Screens: User & Revenue Dynamics  
+**Insights into platform-level user activity, subscription trends, and revenue analysis for Jotstar and LioCinema.**  
+📎 [View Dashboard](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/Book1_17400406398610/Dashboard1)
+
+---
+
+### 📌 Resume Dashboard  
+**A visual resume showcasing skills, tools, and project insights in an interactive format.**  
+📎 [View Dashboard](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/Resume_17438723356450/Dashboard1)
+
+---
+
+> 🔗 All dashboards are built using real or simulated data and reflect a blend of storytelling and analytics best practices.
+
     
 ### :hammer_and_wrench: Languages and Tools :
 <div>
