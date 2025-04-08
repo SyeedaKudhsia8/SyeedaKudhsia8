@@ -29,7 +29,7 @@ Hey there!
 
   I am a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently living in Manchester.
 
-- :zap: In my free time, I read tech articles and also like to code<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :zap: In my free time, I read tech articles and also like to build dashboards<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
   # 📊 Tableau Dashboards Portfolio
 
