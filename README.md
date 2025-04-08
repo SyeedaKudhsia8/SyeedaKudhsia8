@@ -37,7 +37,6 @@ Hey there!
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" **alt="sqlite" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="80" height="30"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
 <img src="https://static.bokeh.org/logos/logotype.svg" title="Bokeh" alt="Bokeh" width="70" height="30"/>&nbsp;
