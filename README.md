@@ -1,7 +1,8 @@
 <h1>
-Hey there!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+🌐 Syeeda Kudhsia Fatima | Data Analyst Portfolio
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+
+
 
 
 
@@ -27,11 +28,11 @@ Hey there!
 
 
 
-  I am a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently living in Manchester.
+  Welcome! I'm Syeeda Kudhsia Fatima — a data analyst passionate about transforming raw data into actionable insights using **Tableau** and other tools like Python and SQL. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :zap: In my free time, I read tech articles and also like to build dashboards<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-  # 📊 Tableau Dashboards Portfolio
+
+  ## 📊 Tableau Dashboards Portfolio
 
 Explore interactive dashboards created using Tableau, analyzing diverse datasets across entertainment, retail, and user behavior insights.
 
@@ -59,6 +60,8 @@ Explore interactive dashboards created using Tableau, analyzing diverse datasets
 **Interactive dashboard to monitor property efficiency across types and managers, showcasing occupancy trends, and vacant space distribution for data-driven real estate insights.**  
 📎 [View Dashboard](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/Book1_17441155230970/Dashboard1)
 
+--- 
+
 ### 📌 Resume Dashboard  
 **A visual resume showcasing skills, tools, and project insights in an interactive format.**  
 📎 [View Dashboard](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/Resume_17438723356450/Dashboard1)
@@ -67,8 +70,14 @@ Explore interactive dashboards created using Tableau, analyzing diverse datasets
 
 > 🔗 All dashboards are built using real or simulated data and reflect a blend of storytelling and analytics best practices.
 
+## 🧠 Experience Highlights
+
+- **Allied Logistics**: Built real-time dashboards, improving decision-making efficiency by 30%.
+- **BNY Mellon**: Created automated reconciliation tools, achieving 98% accuracy.
+- **Margin Sentiments**: Deployed accessible KPI dashboards boosting visibility by 40%.
+
+## 🛠️ Tools & Skills
     
-### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" title="Tableau" alt="Tableau" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
