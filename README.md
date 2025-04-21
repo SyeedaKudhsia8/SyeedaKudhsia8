@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Tableau-portfolio-blueviolet?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
   </a>
   
-  <a href="https://www.datascienceportfol.io/Datacoding25/projects/6">
+  <a href="https://linktr.ee/SyeedaFatima">
     <img src="https://img.shields.io/badge/DataScience-Portfolio-orange?style=for-the-badge&logo=data&logoColor=white" alt="Data Science Portfolio Badge"/>
   </a>
 </div>
