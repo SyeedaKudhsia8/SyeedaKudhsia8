@@ -29,7 +29,7 @@
 ---
 
 ## **🔍 Professional Summary**  
-Data-driven **BI Analyst** with **4+ years** of experience in **Power BI, SQL, and ETL automation**, specializing in **interactive dashboards, data modeling, and stakeholder-driven analytics**. Proven success in **optimizing reporting efficiency, reducing query runtime, and improving decision-making speed by 30%+**. Adept at **translating complex data into business insights** for global teams.  
+Data-driven **BI Analyst** with **4+ years** of experience in **Power BI, SQL, and ETL automation**, specializing in **interactive dashboards, data modeling, and stakeholder-driven analytics**. **Distinction-holder** in MSc Data Science from Bournemouth University. Proven success in **optimizing reporting efficiency, reducing query runtime, and improving decision-making speed by 30%+**. Adept at **translating complex data into business insights** for global teams.  
 
 ✅ **Power BI & DAX**: Built **8+ dashboards** with dynamic visualizations, improving decision speed by **30%**.  
 ✅ **SQL Optimization**: Reduced query runtime by **20%** while enhancing data accuracy by **25%**.  
