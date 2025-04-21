@@ -1,15 +1,11 @@
 <h1>
-🌐 Syeeda Kudhsia Fatima | Data Analyst Portfolio
+🌐 SYEEDA KUDHSIA FATIMA
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
-
-
-
 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
 
 
 <div id="badges">
@@ -26,55 +22,80 @@
   </a>
 </div>
 
-
-
-  Welcome! I'm Syeeda Kudhsia Fatima — a data analyst passionate about transforming raw data into actionable insights using **Tableau** and other tools like Python and SQL. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-
-
-  ## 📊 Tableau Dashboards Portfolio
-
-Explore interactive dashboards created using Tableau, analyzing diverse datasets across entertainment, retail, and user behavior insights.
+ 
+**Data Insight Analyst | Business Intelligence Analyst | Power BI & SQL Specialist**  
+📧 datacoding25@gmail.com | 📞 07727350223 |📍 Manchester, UK | **UK (No Sponsorship Required)**
 
 ---
 
-### 🎬 Netflix Uncovered  
-**Explore genres, content duration, release trends, and global content distribution on Netflix.**  
-📎 [View Dashboard](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/NetflixUncovered/Dashboard1)
+## **🔍 Professional Summary**  
+Data-driven **BI Analyst** with **4+ years** of experience in **Power BI, SQL, and ETL automation**, specializing in **interactive dashboards, data modeling, and stakeholder-driven analytics**. Proven success in **optimizing reporting efficiency, reducing query runtime, and improving decision-making speed by 30%+**. Adept at **translating complex data into business insights** for global teams.  
+
+✅ **Power BI & DAX**: Built **8+ dashboards** with dynamic visualizations, improving decision speed by **30%**.  
+✅ **SQL Optimization**: Reduced query runtime by **20%** while enhancing data accuracy by **25%**.  
+✅ **ETL & Automation**: Developed **Python/SQL pipelines**, accelerating reporting by **30%**.  
+✅ **Stakeholder Training**: Trained **50+ non-technical users** on BI tools, achieving **85% adoption**.  
 
 ---
 
-### 🛍️ Retail Analysis  
-**Deep dive into sales trends, category performance, and customer segments in the retail domain.**  
-📎 [View Dashboard](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/RetailAnalysis_17440438813160/Dashboard1)
+## **💼 Core Competencies**  
+📊 **BI & Data Visualization**  
+- Power BI (DAX, Tabular Editor, Power Query)  
+- Tableau, Interactive Dashboards, KPI Tracking  
+- Data Storytelling & Executive Reporting  
+
+🔍 **Data Engineering & SQL**  
+- Advanced SQL (CTEs, Window Functions, Joins)  
+- ETL Automation (Python, Pandas, SQL Pipelines)  
+- Data Modeling (Star Schema, Snowflake)  
+
+🤝 **Stakeholder Collaboration**  
+- Cross-functional Analytics Alignment  
+- BI Tool Training & Adoption Strategies  
+- Business Requirements Translation  
 
 ---
 
-### 📺 Behind the Screens: User & Revenue Dynamics  
-**Insights into platform-level user activity, subscription trends, and revenue analysis for Jotstar and LioCinema.**  
-📎 [View Dashboard](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/Book1_17400406398610/Dashboard1)
+## **🚀 Key Achievements**  
+
+### **📌 ALLIED LOGISTICS | Data Analyst (Jan 2024 - Present)**  
+✔ **Built 8+ Power BI dashboards** tracking KPIs (resource allocation, campaign ROI), enabling **£15K monthly savings**.  
+✔ **Automated sales data workflows** (Python/SQL), reducing reporting time by **30%** while improving accuracy.  
+✔ **Trained 50+ users** on Power BI, increasing self-service analytics adoption.  
+
+### **📌 BNY MELLON | Junior Fund Accounting Analyst (Apr 2023 - Nov 2023)**  
+✔ **Automated financial reports** (Python/SQL), saving **20+ hours/month** in manual work.  
+✔ **Onboarded 10+ teams** on Power BI, improving data-driven decisions by **30%**.  
+
+### **📌 Margin Sentiments Advisory | Data Analyst (Jun 2022 - Dec 2022)**  
+✔ **Developed Salesforce-connected dashboards**, increasing client win rates by **15%**.  
+✔ **Optimized SQL queries**, reducing runtime by **20%** for faster insights.  
+
+### **📌 The Machine Learning Company | Data Science Intern (Feb 2022 - May 2022)**  
+✔ Built **predictive models (Scikit-learn)** and integrated results into Tableau, boosting efficiency by **40%**.  
 
 ---
 
-### 🏠 Real Estate Efficiency Monitor 
-**Interactive dashboard to monitor property efficiency across types and managers, showcasing occupancy trends, and vacant space distribution for data-driven real estate insights.**  
-📎 [View Dashboard](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/Book1_17441155230970/Dashboard1)
+## **🛠️ Technical Skills**  
+**📊 BI & Visualization**  
+Power BI (DAX, Tabular Editor), Tableau, Excel (PivotTables, Power Query)  
 
---- 
+**🔍 SQL & Databases**  
+Advanced SQL (CTEs, Window Functions, Joins), PostgreSQL, MySQL  
 
-### 📌 Resume Dashboard  
-**A visual resume showcasing skills, tools, and project insights in an interactive format.**  
-📎 [View Dashboard](https://public.tableau.com/app/profile/syeeda.fatima1036/viz/Resume_17438723356450/Dashboard1)
+**⚙️ ETL & Automation**  
+Python (Pandas, NumPy), SQL Pipelines, Data Warehousing  
+
+**📈 Data Modeling**  
+Star Schema, Snowflake, Dimensional Modeling  
 
 ---
 
-> 🔗 All dashboards are built using real or simulated data and reflect a blend of storytelling and analytics best practices.
+## **📚 Education**  
+🎓 **MSc in Data Science** | Bournemouth University (2022) | Distinction
 
-## 🧠 Experience Highlights
+---
 
-- **Allied Logistics**: Built real-time dashboards, improving decision-making efficiency by 30%.
-- **BNY Mellon**: Created automated reconciliation tools, achieving 98% accuracy.
-- **Margin Sentiments**: Deployed accessible KPI dashboards boosting visibility by 40%.
 
 ## 🛠️ Tools & Skills
     
@@ -98,6 +119,14 @@ Explore interactive dashboards created using Tableau, analyzing diverse datasets
 </div>
 
 
+---
+
+## **📌 Why Work With Me?**  
+✔ **Business-Focused Analytics**: I bridge the gap between **raw data and strategic decisions**.  
+✔ **Scalable BI Solutions**: From **ETL automation** to **self-service dashboards**, I optimize workflows.  
+✔ **Stakeholder Empowerment**: I train teams to **leverage data independently**.  
+
+**Let’s turn your data into a competitive advantage!** 🚀  
 
 
 
